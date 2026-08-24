@@ -46,6 +46,3 @@ El proyecto utiliza la librería `random` de Python para seleccionar aleatoriame
 
 Al finalizar las 10 comparaciones, el algoritmo muestra un ranking de los cursos según la cantidad de votos obtenidos e identifica el curso más recomendado.
 
-## Autor
-
-Proyecto académico desarrollado como ejercicio de algoritmos aplicados al mercadeo y la educación.
